@@ -13,3 +13,4 @@ Aquí encontrarás un listado de ejercios con enunciados y soluciones de problem
 - [Vector Parcurioso](https://github.com/PinkOBoy/FAL-Vector_parcuriosos-ES_EN)
 - [El mayor valor perdido](https://github.com/PinkOBoy/FAL-El_mayor_valor_perdido-ES_EN)
 ## Algoritmos recursivos por vuelta atrás (Backtracking) (NP)
+- [Caballo de ajedrez](https://github.com/PinkOBoy/FAL-Caballo_de_ajedrez-ES_EN)
