@@ -15,6 +15,7 @@ All solutions are written in `C++` and you are suppossed to be using `Visual Stu
 ## Algoritmos recursivos (P) // Recursive algorithms
 ### Entendiendo recursión // Understanding recurrence
 - [Invertir un número](https://github.com/PinkOBoy/FAL-Invertir_un_numero-ES_EN)
+- [Dígitos Complementarios](https://github.com/PinkOBoy/FAL-Digitos_complementarios-ES)
 ### Divide y Vencerás (DyV) // Divide and Conquer (D&C)
 - [Vector Parcurioso](https://github.com/PinkOBoy/FAL-Vector_parcuriosos-ES_EN)
 - [El mayor valor perdido](https://github.com/PinkOBoy/FAL-El_mayor_valor_perdido-ES_EN)
