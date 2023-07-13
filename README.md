@@ -12,6 +12,7 @@ All solutions are written in `C++` and you are suppossed to be using `Visual Stu
 - [Contabilidad](https://github.com/PinkOBoy/FAL-Contabilidad-ES_EN)
 - [Meseta más larga](https://github.com/PinkOBoy/FAL-Meseta_mas_larga-ES_EN)
 - [Golosi](https://github.com/PinkOBoy/FAL-Golosi-ES_EN)
+- [Elimina los valores impares](https://github.com/PinkOBoy/FAL-Elimina_Valores_Impares-ES)
 ## Algoritmos recursivos (P) // Recursive algorithms
 ### Entendiendo recursión // Understanding recurrence
 - [Invertir un número](https://github.com/PinkOBoy/FAL-Invertir_un_numero-ES_EN)
