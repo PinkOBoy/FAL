@@ -3,9 +3,14 @@ Aquí encontrarás un listado de ejercios con enunciados y soluciones de problem
 
 Todas las soluciones están escritas en `C++` y tendrías que usar el IDE de `Visual Studio`
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Here you will find a list of exercises with their instructions and solutions. For now, they are just programming exercise, i.e exercise from the Lesson 3, of iterative algorithms, to the final lesson of backtracking. They vary between different levels of difficulty. I've gathered them from the exercise sheets, tests and exams.
 
 All solutions are written in `C++` and you are suppossed to be using `Visual Studio` IDE
+
+--------------------------------------------------
+
 ## Algoritmos iterativos // Iterative algorithms
 - [Rango de temperaturas](https://github.com/PinkOBoy/FAL-Rango_de_Temperaturas-ES_EN)
 - [Picos y valles](https://github.com/PinkOBoy/FAL-Picos_Y_Valles-ES_EN)
@@ -23,3 +28,4 @@ All solutions are written in `C++` and you are suppossed to be using `Visual Stu
 - [Jugando a las canicas](https://github.com/PinkOBoy/FAL-Jugando_a_las_canicas-ES_EN)
 ## Algoritmos recursivos por vuelta atrás // Backtracking recursive algorithms (NP)
 - [Caballo de ajedrez](https://github.com/PinkOBoy/FAL-Caballo_de_ajedrez-ES_EN)
+- [Necesito otro abrigo](https://github.com/PinkOBoy/FAL-Necesito_otro_abrigo-ES_EN)
