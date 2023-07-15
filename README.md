@@ -18,6 +18,7 @@ All solutions are written in `C++` and you are suppossed to be using `Visual Stu
 - [Meseta más larga](https://github.com/PinkOBoy/FAL-Meseta_mas_larga-ES_EN)
 - [Golosi](https://github.com/PinkOBoy/FAL-Golosi-ES_EN)
 - [Elimina los valores impares](https://github.com/PinkOBoy/FAL-Elimina_Valores_Impares-ES)
+- [Vector bien dividido](https://github.com/PinkOBoy/FAL-Vector_bien_dividido-ES_EN)
 ## Algoritmos recursivos (P) // Recursive algorithms
 ### Entendiendo recursión // Understanding recurrence
 - [Invertir un número](https://github.com/PinkOBoy/FAL-Invertir_un_numero-ES_EN)
