@@ -19,6 +19,7 @@ All solutions are written in `C++` and you are suppossed to be using `Visual Stu
 - [Golosi](https://github.com/PinkOBoy/FAL-Golosi-ES_EN)
 - [Elimina los valores impares](https://github.com/PinkOBoy/FAL-Elimina_Valores_Impares-ES)
 - [Vector bien dividido](https://github.com/PinkOBoy/FAL-Vector_bien_dividido-ES_EN)
+- [Rescate Aéreo 1](https://github.com/PinkOBoy/FAL-Rescate_Aereo_1-ES_EN)
 ## Algoritmos recursivos (P) // Recursive algorithms
 ### Entendiendo recursión // Understanding recurrence
 - [Invertir un número](https://github.com/PinkOBoy/FAL-Invertir_un_numero-ES_EN)
